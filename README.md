@@ -14,12 +14,12 @@ Install Dependencies
 ```sh
 
 Check the use of handlebar
-https://handlebarsjs.com/installation/#npm-or-yarn-recommended
+https://handlebarsjs.com/
 
 npm install handlebars 
 
 
-$ npm install
+$ npm i handlebars
 
 ```
 
