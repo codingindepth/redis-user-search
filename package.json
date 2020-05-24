@@ -6,8 +6,6 @@
   "scripts": {
     "start": "node app"
   },
-  "author": "Brad Traversy",
-  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
     "bootstrap": "^4.3.1",
